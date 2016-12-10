@@ -18,6 +18,5 @@ def repeatStringNumTimes(str, num):
         result+=str
 
     return result
-
-
+    
 print repeatStringNumTimes("sbc", 4);
